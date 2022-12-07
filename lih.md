@@ -11,18 +11,19 @@
 </p>
     <li>Apply Online through: <a>https://www.compass.state.pa.us/compass.web/Public/CMPHome</a> </li>
   <li>Apply in Person through the Blair County Assitance Office located at 1100 Green Aveune, Altoona, PA, 16602 </li>
-  <ul><li> Income Guidelines depend upon household size: 
+  <ul>
+  <li> Income Guidelines depend upon household size: </li>
    
-     1 : $20,385 / year 
-     2 : $27,465 / year
-     3 : $34,545 / year
-     4 : $41,625 / year
-     5 : $48,705 / year
-     6 : $55,785 / year
-     7 : $62,865 / year
-     8 : $69,945 / year
-     9 : $77,025 / year
-    10 : $84,105 / year
+  <li> 1 : $20,385 / year </li>
+    <li> 2 : $27,465 / year </li>
+    <li> 3 : $34,545 / year </li>
+    <li> 4 : $41,625 / year </li>
+    <li> 5 : $48,705 / year </li>
+    <li> 6 : $55,785 / year </li>
+    <li> 7 : $62,865 / year </li>
+    <li> 8 : $69,945 / year </li>
+    <li> 9 : $77,025 / year </li>
+   <li> 10 : $84,105 / year </li>
   
   </ul>
   </p>
