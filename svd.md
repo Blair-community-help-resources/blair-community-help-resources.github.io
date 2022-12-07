@@ -12,7 +12,7 @@
  <p>
   <ul>
     <li>Address: 1523 Adams Avenue</li>
-  <li>Hours: Tues, Thurs: 8:30AM - 10:30 AM</li>
+  <li>Hours: Tues, Thurs 8:30AM - 10:30 AM</li>
   <li>Phone: 814-943-7962</li>
     <li>Appointment neccessary, call number above</li>
    </ul>
