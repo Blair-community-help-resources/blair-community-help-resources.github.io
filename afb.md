@@ -1,20 +1,25 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About </a>
-  <a href = "/projects"> Resources </a>
+  <a href = "/about"> About Me </a>
+  <a href = "/projects"> Projects </a>
 </div>
-   
-   <h2 id="skills">Altoona Food Bank</h2>
-        <ul>
-          <li>Address: 2318 N Branch Ave, Altoona, Pennsylvania, 16602</li>
-          <li>Hours: Monday, Wednesday, Friday from 9:15AM - 12:00PM</li>
-          <li>Description: Individuals can expect to recieve at least a box of food containing canned goods, bakery items, etc</li>
-        </ul>
-      </div>
-    </div>
-    
+
+
+<h2><strong>Altoona Food Bank</strong></h2>
+<p> 
+  Information about the Altoona Food Bank 
+</p>
+ <p>
+  <ul>
+    <li>Address 2318 Branch Ave, Altoona, PA, 16602</li>
+  <li>Hours: MWF: 9:15AM - 12:00PM</li>
+  <li>Invdividuals can expect to recieve at least one box of food containing non-perishable items such as canned goods, bakery items, etc</li>
+    <li>Staff consists of volunteers dedicated to helping the local community.  </li>
+   </ul>
+  </p>
+   <br>   
 <style>
- .navbar{
+  .navbar{
   overflow: hidden;
   position: absolute;
   width: 100%;
@@ -39,7 +44,7 @@
   background-color: #0c97b0;
   height: 100%;
   }
-  .accordion {
+ .accordion {
   border: 2px solid #dce6f0;
   border-radius: 10px;
   margin: 5px 0;
@@ -68,5 +73,22 @@
 .accordion-header:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+  
 </style>
+<script>
+
+  const accordionHeaders = document.getElementsByClassName('accordion-header');
+  const accordionContents = document.getElementsByClassName('accordion-content');
+  const accordionIcons = document.getElementsByClassName('accordion-icon');
+
+
+  for (let i = 0; i < accordionHeaders.length; i++) {
+    accordionHeaders[i].addEventListener('click', () => {
+      accordionContents[i].style.display = accordionContents[i].style.display == 'block' ? 'none' : 'block';
+      accordionIcons[i].innerHTML = accordionContents[i].style.display == 'block' ? '▼' : '◀';
+    });
+  }
+  
+</script>
+
    
