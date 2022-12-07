@@ -11,12 +11,12 @@
 </p>
    <div class="accordion">
      <div class="accordion-header">
-        <div class="accordion-title">Snippets of code with explanations</div>
+        <div class="accordion-title">Food Banks</div>
         <span class="accordion-icon">◀</span>
       </div>
       <div class="accordion-content">
         <ul>
-          <li><a href="https://i.imgur.com/2Upd0Eq.png">Altoona Food Bank<</a></li>
+          <li><a href="https://i.imgur.com/2Upd0Eq.png">Altoona Food Bank</a></li>
           <li><a href="https://i.imgur.com/wiZjboM.png">St Vincent De Paul Food Bank</a></li>
           <li><a href="https://i.imgur.com/rMoUJUo.png">Food For Families Food Bank</a></li>
           <li><a href="https://i.imgur.com/FsgC44d.png">The Savlvation Army Church</a></li>
