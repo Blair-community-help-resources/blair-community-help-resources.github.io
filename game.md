@@ -11,7 +11,7 @@
   <br>
   <a href="/lih">DHS LIHEAP</a>
   <br>
-  <a href="/PortfolioBuild/index.html">Food Stamps</a>
+  <a href="/food">Food Stamps</a>
   <br>
   <a href="/link/link.md">Housing Assistance</a>
 </p>
