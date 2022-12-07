@@ -9,7 +9,7 @@
 <p> 
   Information about the Salvation Army Church food pantry
   <br>
-  <img src ="https://img.geocaching.com/waymarking/log/display/1b435a1a-ca65-4c1c-995c-52bf02c378fb.jpg"></img>
+  <img src ="https://img.geocaching.com/waymarking/log/display/1b435a1a-ca65-4c1c-995c-52bf02c378fb.jpg">
 </p>
   <ul>
     <li>Address: 1813 6th Ave Altoona, PA, 16602</li>
