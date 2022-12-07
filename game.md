@@ -9,7 +9,7 @@
 <p> 
   This page consists of financial help resources. 
   <br>
-  <a href="/PortfolioBuild/index.html">DHS LIHEAP</a>
+  <a href="/lih">DHS LIHEAP</a>
   <br>
   <a href="/PortfolioBuild/index.html">Food Stamps</a>
   <br>
