@@ -1,38 +1,14 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About Me </a>
-  <a href = "/projects"> Projects </a>
+  <a href = "/about"> About </a>
+  <a href = "/projects"> Resources </a>
 </div>
 
 
-<h2><strong>Cred Bot</strong></h2>
+<h2><strong>Food Banks in the Blair County area</strong></h2>
 <p> 
-  The Cred Bot is an ongoing project that is a "fun" type bot along with some useful features. I am invested in making this bot unique, one that is different from many of the popular Discord bots that you could add to your server. 
+  The following is a interactable list of food banks that are available in the Blair County area. As much informatin possible is given for each food bank. 
 </p>
- <p>
-   <strong>Language:</strong> Python 
-  <br>
-   <strong>Features:</strong>
-  <ul>
-    <li>Give and take "cred" from members of the server (limited to 50 cred per day).</li>
-  <li>"Cash in" cred for rewards such as muting, deafening or kicking another member of the server.</li>
-  <li>Text alerts on voice channel join for enabled members.</li>
-  <li>Custom admin text alerts to enabled members.</li>
-  <li>Request a temporary email and recieve emails through Cred Bot </li>
-  <li>"Wake up" calls to members phones at a member-specified time. Also good for finding a lost phone! </li>
-   </ul>
-  </p>
-   <br>
-   <p>
-   <strong>Current Goals/Roadmap:</strong>
-   <ul>
-  <li>Migrate the bot to Azure or Google Cloud hosting.</li>
-  <li>After migration, swap from Replit DB to MongoDB </li>
-  <li>Research the potential of a discord phone with discord.js</li>
-  <li>General Cleanup</li>
-   </ul>
-   </p>
-   
    <div class="accordion">
      <div class="accordion-header">
         <div class="accordion-title">Snippets of code with explanations</div>
@@ -40,29 +16,14 @@
       </div>
       <div class="accordion-content">
         <ul>
-          <li><a href="https://i.imgur.com/2Upd0Eq.png">Give Cred</a></li>
-          <li><a href="https://i.imgur.com/wiZjboM.png">Rewards</a></li>
-          <li><a href="https://i.imgur.com/rMoUJUo.png">Text Alerts</a></li>
-          <li><a href="https://i.imgur.com/FsgC44d.png">Temporary Email</a></li>
-          <li>Calls (Snippets coming soon!)</li>
+          <li><a href="https://i.imgur.com/2Upd0Eq.png">Altoona Food Bank<</a></li>
+          <li><a href="https://i.imgur.com/wiZjboM.png">St Vincent De Paul Food Bank</a></li>
+          <li><a href="https://i.imgur.com/rMoUJUo.png">Food For Families Food Bank</a></li>
+          <li><a href="https://i.imgur.com/FsgC44d.png">The Savlvation Army Church</a></li>
         </ul>
       </div>
     </div>
-   <div class="accordion">
-     <div class="accordion-header">
-        <div class="accordion-title">Video Demonstrations</div>
-        <span class="accordion-icon">◀</span>
-      </div>
-      <div class="accordion-content">
-        <ul>
-          <li><a href="https://youtu.be/tUliYlRtDt4">Give Cred</a></li>
-          <li><a href="https://youtu.be/9JL36dAr3Zc">Rewards</a></li>
-          <li><a href="https://youtu.be/bETXtH8jMWs">Text Alerts</a></li>
-          <li><a href="https://youtu.be/yliNWhPObvA">Temporary Email</a></li>
-          <li>Calls (Video coming soon!)</li>
-        </ul>
-      </div>
-    </div>
+
    
 <style>
   .navbar{
