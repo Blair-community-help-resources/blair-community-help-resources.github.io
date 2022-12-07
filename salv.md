@@ -15,7 +15,6 @@
   <li>Phone: 814-942-8104</li>
   <li>Website: https://www.salvationarmyusa.org/usn/cure-hunger/ </li>
    </ul>
-  </p>
    
    
 <style>
