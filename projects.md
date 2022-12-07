@@ -15,7 +15,7 @@
         <ul>
           <li><a href="/credbot">Food Banks</a></li>
           <li><a href="/game">Help with bills</a></li>
-          <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
+          <li><a href="/calculator.html">Something else</a></li>
         </ul>
       </div>
     </div>
