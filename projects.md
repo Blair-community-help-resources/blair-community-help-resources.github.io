@@ -1,19 +1,19 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About Me </a>
-  <a href = "/projects"> Projects </a>
+  <a href = "/about"> About </a>
+  <a href = "/projects"> Resources </a>
 </div>
    
-   <h2 id="skills">Projects</h2>
+   <h2 id="skills">Community Help Resources in the Blair County Area</h2>
 
    <div class="accordion">
      <div class="accordion-header">
-        <div class="accordion-title">Projects</div>
+        <div class="accordion-title">Resources:</div>
         <span class="accordion-icon">◀</span>
       </div>
       <div class="accordion-content">
         <ul>
-          <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
+          <li><a href="/credbot">Food Banks</a></li>
           <li><a href="/game">Unity Game (Browser Game)(C#)(In Progress)</a></li>
           <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
           <li><a href="https://operance-react-js-calculator.netlify.app/">React JS Basic Web Calculator (JavaScript)</a></li>
