@@ -1,37 +1,19 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About Me </a>
-  <a href = "/projects"> Projects </a>
+  <a href = "/about"> About </a>
+  <a href = "/projects"> Resources </a>
 </div>
 
 
-<h2><strong>Unity Game</strong></h2>
+<h2><strong>Help with bills</strong></h2>
 <p> 
-  This Unity game project is a flappy bird-esque 2D game. The goal is to dodge as many obstacles as possible and get to the end!. 
+  This page consists of financial help resources. 
   <br>
-  <a href="/PortfolioBuild/index.html">PLAY HERE!</a>
+  <a href="/PortfolioBuild/index.html">DHS LIHEAP</a>
+  <br>
+  <a href="/PortfolioBuild/index.html">Food Stamps</a>
 </p>
- <p>
-   <strong>Language:</strong> C# 
-  <br>
-   <strong>Featuring:</strong>
-  <ul>
-    <li>Six levels (So far!)</li>
-  <li>Moving obstacles</li>
-  <li>Falling enemies</li>
-  <li>Marathon mode (Continuous instantiation of random obstacle sets, get the highest score you can! *not in current build but finished)</li>
-   </ul>
-  </p>
-   <br>
-   <p>
-   <strong>Current Goals/Roadmap:</strong>
-   <ul>
-  <li>Publish a build of the game with Marathon mode included to this website.</li>
-  <li>"Buddy" Mode</li>
-  <li>Replace placeholder UI elements.</li>
-  <li>Additional Levels</li>
-   </ul>
-   </p>
+
    
 <style>
   .navbar{
