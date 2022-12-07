@@ -14,6 +14,7 @@
     <li>Address 2318 Branch Ave, Altoona, PA, 16602</li>
   <li>Hours: MWF: 9:15AM - 12:00PM</li>
   <li>Invdividuals can expect to recieve at least one box of food containing non-perishable items such as canned goods, bakery items, etc</li>
+    <li> Donations are recieved from individuals within the community and local businesses </li>
     <li>Staff consists of volunteers dedicated to helping the local community.  </li>
    </ul>
   </p>
