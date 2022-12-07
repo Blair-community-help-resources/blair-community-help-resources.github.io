@@ -5,7 +5,7 @@
 </div>
 
 
-<h2><strong>The Salvation Army CHuch</strong></h2>
+<h2><strong>The Salvation Army Church</strong></h2>
 <p> 
   Information about the Salvation Army Church food pantry
 </p>
