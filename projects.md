@@ -14,7 +14,7 @@
       <div class="accordion-content">
         <ul>
           <li><a href="/credbot">Food Banks</a></li>
-          <li><a href="/game">Help with bills</a></li>
+          <li><a href="/game">Financial Assistance</a></li>
           <li><a href="/calculator.html">Something else</a></li>
         </ul>
       </div>
