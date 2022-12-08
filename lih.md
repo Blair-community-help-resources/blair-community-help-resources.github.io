@@ -9,7 +9,7 @@
 <p> 
     "The Low Income Home Energy Assistance Program helps families living on low incomes pay their heating bills in the form of a cash grant" per PA DHS website
 </p>
-    <li>Apply Online through: https://www.compass.state.pa.us/compass.web/Public/CMPHome </li>
+  <li>Apply Online through: https://www.compass.state.pa.us/compass.web/Public/CMPHome </li>
   <li>Apply in Person through the Blair County Assitance Office located at 1100 Green Aveune, Altoona, PA, 16602 </li>
   <ul>
   <li> Income Guidelines depend upon household size: </li>
