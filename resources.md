@@ -1,7 +1,7 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
   <a href = "/about"> About </a>
-  <a href = "/projects"> Resources </a>
+  <a href = "/resources"> Resources </a>
 </div>
    
    <h2 id="skills">Community Help Resources in the Blair County Area</h2>
