@@ -7,7 +7,7 @@
 
 <h2><strong>Other</strong></h2>
 <p> 
-  The following is a interactable list of educational assistance available to low-income individuals/families in the Blair County area. 
+  The following is a interactable list of additional assistance available to low-income individuals/families in the Blair County area. 
 </p>
    <div class="accordion">
      <div class="accordion-header">
