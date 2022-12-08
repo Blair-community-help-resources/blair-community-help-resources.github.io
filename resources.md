@@ -15,7 +15,7 @@
         <ul>
           <li><a href="/food_banks">Food Banks</a></li>
           <li><a href="/game">Financial Assistance</a></li>
-          <li><a href="/calculator.html">Something else</a></li>
+          <li><a href="/calculator.html">Educational Assistance</a></li>
         </ul>
       </div>
     </div>
