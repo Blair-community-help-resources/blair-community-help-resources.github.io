@@ -14,8 +14,8 @@
       <div class="accordion-content">
         <ul>
           <li><a href="/food_banks">Food Banks</a></li>
-          <li><a href="/game">Financial Assistance</a></li>
-          <li><a href="/education">Educational Assistance</a></li>
+          <li><a href="/financial_assistance">Financial Assistance</a></li>
+          <li><a href="/education">Other Assistance</a></li>
         </ul>
       </div>
     </div>
