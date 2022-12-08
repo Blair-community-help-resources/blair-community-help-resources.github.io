@@ -32,7 +32,6 @@
     8 : $1,691 / month
 
    </ul>
-  </p>
    
 <style>
   .navbar{
