@@ -5,7 +5,7 @@
 </div>
 
 
-<h2><strong>Help with bills</strong></h2>
+<h2><strong>Financial Assistance</strong></h2>
 <p> 
   This page consists of financial help resources. 
   <br>
