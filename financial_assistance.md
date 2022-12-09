@@ -17,11 +17,6 @@
   <a href="/childcare">Child Care Assistance </a>
   
   
-<div class = "navbar">
-  <a href = "/"> Home </a>
-  <a href = "/about"> About Me </a>
-  <a href = "/projects"> Projects </a>
-</div>
    
     
 <style>
