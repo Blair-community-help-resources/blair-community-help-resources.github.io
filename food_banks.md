@@ -6,7 +6,7 @@
 
 <h2><strong>Food Banks in the Blair County area</strong></h2>
 <p> 
-  The following is a interactable list of food banks that are available in the Blair County area. As much informatin possible is given for each food bank. 
+  The following is a interactable list of food banks that are available in the Blair County area. As much information possible is given for each food bank. 
 </p>
    <div class="accordion">
      <div class="accordion-header">
