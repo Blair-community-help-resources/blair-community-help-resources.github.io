@@ -1,6 +1,5 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About </a>
   <a href = "/resources"> Resources </a>
 </div>
    
