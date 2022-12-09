@@ -23,27 +23,6 @@
   <a href = "/projects"> Projects </a>
 </div>
    
-   <h2 id="skills">Projects</h2>
-
-   <div class="accordion">
-     <div class="accordion-header">
-        <div class="accordion-title">Projects</div>
-        <span class="accordion-icon">◀</span>
-      </div>
-      <div class="accordion-content">
-        <ul>
-          <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
-          <li><a href="/game">Unity Game (Browser Game)(C#)(In Progress)</a></li>
-          <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
-          <li><a href="https://operance-react-js-calculator.netlify.app/">React JS Basic Web Calculator (JavaScript)</a></li>
-          <li><a href="https://replit.com/@operance/Playing-around-with-C#main.cpp">Basic CM/MM to Inches Converter (C++)</a></li>
-          <li><a href="https://github.com/Operance/NPL/tree/master/Project%20NPL/Assets/Scripts">Former Unity Game Project (JavaScript)</a></li>
-          <li>Packet Manipulation Tool using Scapy (Python)(In-Progress)</li>
-          <li><a href="/mvc_project">Star Citizen Ship Database MVC Core App (C#)(In-Progress)</a></li>
-          <li>ETH TX Hash to CSV tool(Python)(In-Progress)</li>
-        </ul>
-      </div>
-    </div>
     
 <style>
  .navbar{
