@@ -16,7 +16,7 @@
       <div class="accordion-content">
         <ul>
           <li><a href="https://www.centerforcommunityaction.org/our-departments/employment-and-training/hsbg-educational-services">EARN Program</a></li>
-          <li><a href="/aae">AASD Adult Education Program</a></li>
+          <li>AASD Adult Education Program</li>
           <li><a href="https://www.blaircap.org/services/">Education Services offered by the Blair CAP</a></li>
           <li><a href="https://www.pacareerlink.pa.gov/jponline/">CareerLink</a></li>
           <li><a href="https://www.dhs.pa.gov/Services/Assistance/Pages/Medical-Assistance.aspx">PA DOH low-income medical insurance</a></li>
