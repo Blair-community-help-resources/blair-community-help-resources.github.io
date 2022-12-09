@@ -1,6 +1,5 @@
 <div class = "navbar">
   <a href = "/"> Home </a>
-  <a href = "/about"> About Me </a>
   <a href = "/resources"> Resources </a>
 </div>
 
@@ -26,7 +25,6 @@
    <li> 10 : $84,105 / year </li>
   
   </ul>
-  </p>
    
 <style>
   .navbar{
